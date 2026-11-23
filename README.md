@@ -1,4 +1,4 @@
-# LedgerPoison — 
+# LedgerPoison
 
 The package contains the actual supplied Ethereum graph inputs and daily gas/ETH-USD files, regression tests, reproducible configurations, per-address predictions, model checkpoints, and generated diagnostic tables. It runs a finite funded transaction simulator over an aggregate reconstruction. It does not certify an on-chain attack, TDSC suitability, statistical significance, or camera-ready research results.
 
